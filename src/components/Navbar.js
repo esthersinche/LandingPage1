@@ -2,7 +2,7 @@ function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-black fixed-top border-bottom border-secondary">
             <div className="container">
-                <a className="navbar-brand fw-bold" href="#">
+                <a className="navbar-brand fw-bold" href="/">
                    ✦ Str.dev ✦
                 </a>
 
